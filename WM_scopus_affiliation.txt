@@ -1,0 +1,391 @@
+"@_fa"	"affilname"	"affiliation-city"	"affiliation-country"	"entry_number"
+"true"	"Hochschule Magdeburg-Stendal"	"Magdeburg"	"Germany"	1
+"true"	"Universite Paris 7- Denis Diderot"	"Paris"	"France"	2
+"true"	"University of Nottingham"	"Nottingham"	"United Kingdom"	3
+"true"	"Gold Coast University Hospital"	"Gold Coast"	"Australia"	3
+"true"	"Cinterandes Foundation"	"Cuenca"	"Ecuador"	3
+"true"	"Hospital General Enrique Garcés"	"Quito"	"Ecuador"	4
+"true"	"Universidad Estatal de Milagro"	"Milagro"	"Ecuador"	5
+"true"	"Universität Bayreuth"	"Bayreuth"	"Germany"	5
+"true"	"The University of British Columbia"	"Vancouver"	"Canada"	6
+"true"	"Johns Hopkins Bloomberg School of Public Health"	"Baltimore"	"United States"	7
+"true"	"Pan American Health Organization"	"Washington, D.C."	"United States"	8
+NA	NA	NA	NA	NA
+NA	NA	NA	NA	NA
+"true"	"Seascape Consultants Ltd"	"Romsey"	"United Kingdom"	11
+"true"	"Universidad de Costa Rica"	"San Jose"	"Costa Rica"	12
+"true"	"Universidad de Costa Rica"	"San Jose"	"Costa Rica"	13
+"true"	"Instituto Nacional de Salud Publica"	"Cuernavaca"	"Mexico"	14
+"true"	"Nectandra Institute"	"San Ramon"	"Costa Rica"	15
+"true"	"University of Florida"	"Gainesville"	"United States"	16
+"true"	"The University of North Carolina Wilmington"	"Wilmington"	"United States"	17
+"true"	"Ohio State University"	"Columbus"	"United States"	18
+"true"	"Universidad del Magdalena"	"Santa Marta"	"Colombia"	19
+"true"	"Inversiones Gamma S.A."	"Havana"	"Cuba"	20
+"true"	"CITMA"	"Santa Clara"	"Cuba"	21
+NA	NA	NA	NA	NA
+"true"	"Universidad de Oriente"	"Santiago de Cuba"	"Cuba"	23
+NA	NA	NA	NA	NA
+"true"	"National Institute of Hygiene, Epidemiology and Microbiology Cuba"	"Havana"	"Cuba"	25
+"true"	"Instituto de Medicina Tropical Pedro Kouri"	NA	"Cuba"	25
+"true"	"The University of British Columbia"	"Vancouver"	"Canada"	26
+"true"	"University of Manitoba"	"Winnipeg"	"Canada"	26
+"true"	"National Institute of Hygiene, Epidemiology and Microbiology Cuba"	"Havana"	"Cuba"	27
+"true"	"Inst de Geografia de la Academia de giencias de Cuba"	"Havana"	"Cuba"	28
+NA	NA	NA	NA	NA
+"true"	"University of California, San Francisco"	"San Francisco"	"United States"	30
+"true"	"Jade University of Applied Sciences"	"Wilhelmshaven"	"Germany"	31
+"true"	"Universität Siegen"	"Siegen"	"Germany"	31
+"true"	"Santa Clara University"	"Santa Clara"	"United States"	32
+"true"	"St. George's University School of Medicine"	"Saint George's"	"Grenada"	33
+"true"	"Colorado School of Mines"	"Golden"	"United States"	34
+"true"	"East Carolina University"	"Greenville"	"United States"	35
+NA	NA	NA	NA	NA
+"true"	"Centers for Disease Control and Prevention"	"Atlanta"	"United States"	37
+"true"	"University of Michigan Medical School"	"Ann Arbor"	"United States"	38
+"true"	"Brigham and Women's Hospital"	"Boston"	"United States"	38
+"true"	"Hospital Albert Schweitzer"	"Deschapelles"	"Haiti"	39
+"true"	"Centers for Disease Control and Prevention"	"Atlanta"	"United States"	40
+"true"	"Secretaría de Salud"	"Tegucigalpa"	"Honduras"	41
+"true"	"Min. Public Health Soc. Asist."	"Tegucigalpa"	"Honduras"	42
+"true"	"Universidade Federal do Parana"	"Curitiba"	"Brazil"	43
+"true"	"Bard College"	"Red Hook"	"United States"	44
+"true"	"Universidad Nacional del Litoral"	"Santa Fe"	"Argentina"	45
+"true"	"University of Phoenix"	"Phoenix"	"United States"	46
+"true"	"Economic Analyst"	"Phoenix"	"United States"	46
+"true"	"Universidad Nacional del Sur"	"Bahia Blanca"	"Argentina"	47
+"true"	"Universidad Nacional de Mar del Plata"	"Mar de Plata"	"Argentina"	48
+"true"	"Universidad Autónoma de Sinaloa"	"Culiacan"	"Mexico"	49
+"true"	"Instituto Nacional de Tecnologia Agropecuaria Buenos Aires"	"Buenos Aires"	"Argentina"	50
+"true"	"Osaka Prefecture University"	"Sakai"	"Japan"	51
+"true"	"Consejo Nacional de Investigaciones Científicas y Técnicas"	"Buenos Aires"	"Argentina"	51
+"true"	"Universidad de Buenos Aires, Instituto de Geografía"	"Buenos Aires"	"Argentina"	52
+"true"	"Universidad Nacional de La Plata"	"La Plata"	"Argentina"	53
+"true"	"Instituto de Investigaciones para la Industria Química, Salta"	"Salta"	"Argentina"	54
+"true"	"Universidad Nacional de Salta"	"Salta"	"Argentina"	54
+"true"	"IHE Delft Institute for Water Education"	"Delft"	"Netherlands"	55
+"true"	"Florida International University"	"Miami"	"United States"	55
+"true"	"Centro de Estudios Parasitológicos y de Vectores (CONICET- Universidad Nacional de La Plata)"	"Provincia de Buenos Aires"	"Argentina"	56
+"true"	"Técnica de la Universidad Nacional"	NA	"Argentina"	57
+"true"	"Facultad de Ciencias Medicas, Universidad Nacional de La Plata"	"La Plata"	"Argentina"	58
+"true"	"ILEC Scientific Committee"	"Buenos Aires"	"Argentina"	59
+"true"	"The University of the West Indies"	"Kingston"	"Jamaica"	60
+"true"	"Instituto Politécnico Nacional"	"Mexico City"	"Mexico"	61
+"true"	"Instituto Tecnológico de Veracruz"	"Veracruz"	"Mexico"	62
+"true"	"Universidad de Colima"	"Colima"	"Mexico"	63
+"true"	"Universidad Politecnica de Cartagena"	"Cartagena"	"Spain"	64
+"true"	"Instituto Mexicano de Tecnologia del Agua"	"Jiutepec"	"Mexico"	65
+"true"	"Pontificia Universidad Católica de Chile"	"Santiago"	"Chile"	66
+"true"	"Universidad Nacional Autónoma de México"	"Ciudad de México"	"Mexico"	67
+"true"	"International Maize and Wheat Improvement Center (CIMMYT)"	"Islamabad"	"Pakistan"	68
+"true"	"Consejo Nacional de Ciencia y Tecnologia Mexico"	"Benito Juarez"	"Mexico"	69
+"true"	"Universidad de Almeria"	"Almeria"	"Spain"	70
+"true"	"Tecnologico de Monterrey"	"Monterrey"	"Mexico"	71
+"true"	"Universidad Autónoma de Zacatecas"	"Zacatecas"	"Mexico"	72
+"true"	"Instituto Mexicano de Tecnologia del Agua"	"Jiutepec"	"Mexico"	73
+"true"	"Universidade Federal do Rio de Janeiro"	"Rio de Janeiro"	"Brazil"	74
+"true"	"Instituto de Ecología, A.C."	"Xalapa"	"Mexico"	75
+"true"	"Universidad Nacional Autónoma de México"	"Ciudad de México"	"Mexico"	76
+"true"	"Universidad Nacional Autónoma de México"	"Ciudad de México"	"Mexico"	77
+"true"	"Universidad Nacional Autónoma de México"	"Ciudad de México"	"Mexico"	78
+"true"	"Universidad Pablo de Olavide"	"Sevilla"	"Spain"	79
+"true"	"Instituto Pirenaico de Ecología"	"Zaragoza"	"Spain"	79
+"true"	"Eidgenössische Forschungsanstalt fur Wald, Schnee Und Landschaft Eth-Bereichs"	"Birmensdorf"	"Switzerland"	79
+"true"	"Centro de Investigaciones Biologicas Del Noroeste"	"La Paz"	"Mexico"	80
+"true"	"Centro de Investigacion en Geografia y Geomatica"	"Mexico City"	"Mexico"	81
+"true"	"SOAS University of London"	"London"	"United Kingdom"	82
+"true"	"Universidad de Monterrey"	"San Pedro Garza Garcia"	"Mexico"	82
+"true"	"ICRE8: International Center for Research on the Environment and the Economy"	NA	"Greece"	82
+"true"	"Centro de Investigacion en Geografia y Geomatica"	"Mexico City"	"Mexico"	83
+"true"	"Universidad de la Laguna"	"San Cristobal de La Laguna"	"Spain"	84
+"true"	"Centro de Investigaciones Biologicas Del Noroeste"	"La Paz"	"Mexico"	85
+"true"	"Universidad Nacional Autónoma de México"	"Ciudad de México"	"Mexico"	86
+"true"	"Universidad Nacional Autónoma de México"	"Ciudad de México"	"Mexico"	87
+"true"	"Universidad Nacional Autónoma de México"	"Ciudad de México"	"Mexico"	88
+"true"	"University of California, San Diego, Medical Center"	"San Diego"	"United States"	89
+"true"	"Universidad de las Américas Puebla"	"Cholula"	"Mexico"	90
+"true"	"Mississippi State University"	"Starkville"	"United States"	91
+"true"	"Universidad de las Américas Puebla"	"Cholula"	"Mexico"	92
+"true"	"Instituto Nacional de Salud Publica"	"Cuernavaca"	"Mexico"	93
+"true"	"Queen's University, Kingston"	"Kingston"	"Canada"	93
+"true"	"Instituto Nacional de Salud Publica"	"Cuernavaca"	"Mexico"	94
+"true"	"Queen's University, Kingston"	"Kingston"	"Canada"	94
+NA	NA	NA	NA	NA
+"true"	"Independent Researcher"	"Houston"	"United States"	96
+"true"	"Autonomous University of Mexico City"	"Mexico City"	"Mexico"	97
+"true"	"NUS - Lee Kuan Yew School of Public Policy"	"Singapore City"	"Singapore"	98
+"true"	"Instituto de Ecología, A.C."	"Xalapa"	"Mexico"	99
+"true"	"University of Massachusetts Lowell"	"Lowell"	"United States"	100
+"true"	"Universidad de Sonora"	"Hermosillo"	"Mexico"	100
+"true"	"Universidad Autónoma de Baja California"	"Ensenada"	"Mexico"	101
+"true"	"Universiteit Gent"	"Ghent"	"Belgium"	102
+"true"	"Universidad Nacional Autónoma de México"	"Ciudad de México"	"Mexico"	103
+NA	NA	NA	NA	NA
+"true"	"Universidad Autónoma del Estado de Hidalgo"	"Pachuca"	"Mexico"	105
+NA	NA	NA	NA	NA
+"true"	"Instituto Potosino de Investigacion Cientifica y Tecnologica"	"San Luis Potosi"	"Mexico"	107
+"true"	"Centro de Investigacin Cientfica y de Educacin Superior de"	"Ensenada"	"Mexico"	108
+NA	NA	NA	NA	NA
+NA	NA	NA	NA	NA
+"true"	"Universidad de Monterrey"	"San Pedro Garza Garcia"	"Mexico"	111
+"true"	"El Colegio de la Frontera Sur"	"Tapachula"	"Mexico"	112
+NA	NA	NA	NA	NA
+"true"	"Instituto Mexicano de Tecnologia del Agua"	"Jiutepec"	"Mexico"	114
+"true"	"SFS Center for Coastal Studies"	NA	"Mexico"	115
+"true"	"Instituto Politécnico Nacional"	"Mexico City"	"Mexico"	116
+"true"	"National Center for Epidemiologic Surveillance and Disease Control"	NA	"Mexico"	117
+"true"	"Junta Central de Aguas y Saneamiento (JCAS)"	"Chihuahua"	"Mexico"	118
+"true"	"Instituto de Ecología, A.C."	"Xalapa"	"Mexico"	119
+"true"	"Oficina de Comunicacion del Lago"	"Guadalajara"	"Mexico"	120
+"true"	"Kwansei Gakuin University"	"Nishinomiya"	"Japan"	121
+"true"	"Third World Centre for Water Management"	"Mexico City"	"Mexico"	122
+"true"	"El Colegio de la Frontera Sur"	"Tapachula"	"Mexico"	123
+"true"	"Centro de Datos para la Conservación"	"Hermosillo"	"Mexico"	124
+"true"	"Instituto Mexicano del Seguro Social"	"Mexico City"	"Mexico"	125
+"true"	"Universidad Nacional Autónoma de México"	"Ciudad de México"	"Mexico"	126
+"true"	"Universidad Autónoma de Baja California"	"Ensenada"	"Mexico"	127
+"true"	"Universidad Nacional Autónoma de México"	"Ciudad de México"	"Mexico"	128
+"true"	"Fort Lewis College"	"Durango"	"United States"	129
+"true"	"IALE Tecnología"	NA	"Spain"	130
+"true"	"IALE Tecnología"	NA	"Spain"	131
+"true"	"Universidad Católica Nuestra Señora de la Asunción"	"Asuncion"	"Paraguay"	132
+"true"	"Instituto Superior Técnico"	"Lisbon"	"Portugal"	133
+"true"	"Universidad Peruana Cayetano Heredia"	"Lima"	"Peru"	134
+"true"	"IHE Delft Institute for Water Education"	"Delft"	"Netherlands"	135
+"true"	"Duke University"	"Durham"	"United States"	136
+"true"	"Environmental Educator"	"Hillsborough"	"United States"	136
+"true"	"Universite Blaise Pascal"	"Clermont-Ferrand"	"France"	137
+"true"	"National Center for Environmental Health"	NA	"United States"	138
+"true"	"University of Aberdeen"	"Aberdeen"	"United Kingdom"	139
+"true"	"Ketos Ecology"	"Aberdeen"	"United Kingdom"	139
+"true"	"Universite d' Auvergne Clermont-FD 1"	"Clermont-Ferrand"	"France"	140
+"true"	"INGEMMET"	"Arequipa"	"Peru"	140
+"true"	"CARE Peru"	"Lima"	"Peru"	141
+"true"	"Universidad Nacional Agraria La Molina"	"Lima"	"Peru"	142
+"true"	"Centro Internacional de la Papa, Peru"	"Lima"	"Peru"	143
+"true"	"Asociacion Benefica PRISMA Lima"	"Lima"	"Peru"	144
+"true"	"Corporación Universitaria Minuto de Dios"	"Bogota"	"Colombia"	145
+"true"	"Universidad Autónoma de Occidente"	"Cali"	"Colombia"	146
+"true"	"Universidad de Valladolid"	"Valladolid"	"Spain"	146
+"true"	"Universidad El Bosque"	"Bogota"	"Colombia"	147
+"true"	"Universidad Nacional de Colombia"	"Bogota"	"Colombia"	148
+"true"	"Universidad de Los Andes, Colombia"	"Bogota"	"Colombia"	149
+"true"	"Universidade Federal do Rio Grande do Sul"	"Porto Alegre"	"Brazil"	150
+"true"	"Escuela Superior de Administración Pública (ESAP)"	"Villavicencio"	"Colombia"	151
+"true"	"Universitat d'Alacant"	"Alicante"	"Spain"	152
+"true"	"Universidad Autónoma de Colombia"	"Bogota"	"Colombia"	152
+"true"	"Pontificia Universidad Javeriana"	"Bogota"	"Colombia"	153
+"true"	"Universidad de La Sabana"	"Chía"	"Colombia"	154
+"true"	"Universidad Tecnológica de Pereira"	"Pereira"	"Colombia"	155
+"true"	"Universidad Distrital Francisco Jose de Caldas"	"Bogota"	"Colombia"	156
+"true"	"IRD Centre de Montpellier"	"Montpellier"	"France"	157
+"true"	"Kasetsart University"	"Bangkok"	"Thailand"	157
+"true"	"Universitetet for miljø- og biovitenskap"	"As"	"Norway"	157
+"true"	"Universidad de Los Andes, Colombia"	"Bogota"	"Colombia"	158
+"true"	"Universidad Santiago de Cali"	"Cali"	"Colombia"	159
+"true"	"Universidad Distrital Francisco Jose de Caldas"	"Bogota"	"Colombia"	160
+"true"	"Universidad Santo Tomás, Bogotá"	"Bogota"	"Colombia"	161
+"true"	"Universidad Nacional de Colombia"	"Bogota"	"Colombia"	162
+"true"	"Universidad del Norte"	"Barranquilla"	"Colombia"	163
+"true"	"Universidad del Magdalena"	"Santa Marta"	"Colombia"	164
+"true"	"Universitetet for miljø- og biovitenskap"	"As"	"Norway"	165
+"true"	"IHE Delft Institute for Water Education"	"Delft"	"Netherlands"	166
+NA	NA	NA	NA	NA
+"true"	"University of Pennsylvania"	"Philadelphia"	"United States"	168
+NA	NA	NA	NA	NA
+"true"	"Education Development Center's Radio Education Project"	"La Paz"	"Colombia"	170
+"true"	"Universidad de Chile"	"Santiago"	"Chile"	171
+"true"	"University of Massachusetts Amherst"	"Amherst MA"	"United States"	172
+"true"	"The University of the West Indies"	"Kingston"	"Jamaica"	173
+"true"	"Universidade de Vigo"	"Vigo"	"Spain"	174
+"true"	"Universidad de la Republica"	"Montevideo"	"Uruguay"	175
+"true"	"Chemonics International, Inc."	"Washington"	"United States"	176
+"true"	"Hospital Evangélico"	"Montevideo"	"Uruguay"	177
+NA	NA	NA	NA	NA
+NA	NA	NA	NA	NA
+"true"	"Instituto Venezolano de Investigaciones Cientificas"	"Caracas"	"Venezuela"	180
+NA	NA	NA	NA	NA
+"true"	"National Health Laboratory Services"	"Johannesburg"	"South Africa"	182
+"true"	"Liverpool School of Tropical Medicine"	"Liverpool"	"United Kingdom"	183
+"true"	"Bahamian Field Station"	"San Salvador"	"Bahamas"	184
+"true"	"The University of Warwick"	"Coventry"	"United Kingdom"	185
+"true"	"Bahamian Field Station"	"San Salvador"	"Bahamas"	185
+"true"	"University of Sheffield"	"Sheffield"	"United Kingdom"	186
+"true"	"Ministry of Agriculture"	"Bridgetown"	"Barbados"	187
+"true"	"University of Belize Environmental Research Institute"	NA	"Belize"	188
+"true"	"Beijing Normal University"	"Beijing"	"China"	189
+"true"	"Universidade de Brasília"	"Brasilia"	"Brazil"	190
+"true"	"Universidade Federal de Minas Gerais"	"Belo Horizonte"	"Brazil"	191
+"true"	"UNESP-Universidade Estadual Paulista"	"Sao Paulo"	"Brazil"	192
+"true"	"Universidade Tecnologica Federal do Parana"	"Curitiba"	"Brazil"	193
+"true"	"Fundacao Oswaldo Cruz"	"Rio de Janeiro"	"Brazil"	194
+"true"	"Veolia Water Technologies"	"Florence"	"Brazil"	195
+"true"	"Centro Universitário"	"Sao Paulo"	"Brazil"	196
+"true"	"Universidade Federal da Paraiba"	"Joao Pessoa"	"Brazil"	197
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	198
+"true"	"UNESP-Universidade Estadual Paulista"	"Sao Paulo"	"Brazil"	198
+"true"	"Universidade de Brasília"	"Brasilia"	"Brazil"	199
+"true"	"Universidade Federal do Parana"	"Curitiba"	"Brazil"	199
+"true"	"Membro afiliado da Associação Brasileira de Estomaterapia (SOBEST)"	"Sao Paulo"	"Brazil"	199
+"true"	"Universidade do Estado do Rio de Janeiro"	"Rio de Janeiro"	"Brazil"	200
+"true"	"Universidade Federal do Ceara"	"Fortaleza"	"Brazil"	201
+"true"	"Universidade Estadual da Paraiba"	"Campina Grande"	"Brazil"	202
+"true"	"Universidade Federal do Rio Grande do Sul"	"Porto Alegre"	"Brazil"	203
+"true"	"Universidade Federal do Rio de Janeiro"	"Rio de Janeiro"	"Brazil"	204
+"true"	"Universidade Federal de Alfenas"	"Alfenas"	"Brazil"	205
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	206
+"true"	"Universidade Estadual do Oeste do Parana"	"Cascavel"	"Brazil"	207
+"true"	"Universidade Federal do ABC"	"Santo Andre"	"Brazil"	208
+"true"	"Universidade Federal de Santa Catarina"	"Florianopolis"	"Brazil"	209
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	210
+"true"	"Federal University of Latin-America Integration"	NA	"Brazil"	211
+"true"	"Universidade de Pernambuco"	"Recife"	"Brazil"	212
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	213
+"true"	"Universidade de Brasília"	"Brasilia"	"Brazil"	214
+"true"	"Universidade Federal de Pelotas"	"Pelotas"	"Brazil"	215
+"true"	"Fundação CERTI"	"Florianopolis"	"Brazil"	216
+"true"	"Universidade Federal de Mato Grosso"	"Cuiaba"	"Brazil"	217
+"true"	"Fundacao Oswaldo Cruz"	"Rio de Janeiro"	"Brazil"	218
+"true"	"Universidade Federal do Piaui"	"Teresina"	"Brazil"	219
+"true"	"Universidade Federal de Campina Grande"	"Campina Grande"	"Brazil"	220
+"true"	"Universidade Federal de Campina Grande"	"Campina Grande"	"Brazil"	221
+NA	NA	NA	NA	NA
+"true"	"Universidade Federal Fluminense"	"Niteroi"	"Brazil"	223
+"true"	"Fundacao Oswaldo Cruz"	"Rio de Janeiro"	"Brazil"	224
+"true"	"Universidade Federal do Rio Grande do Norte"	"Natal"	"Brazil"	225
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	226
+"true"	"Universidade Federal do Rio de Janeiro"	"Rio de Janeiro"	"Brazil"	226
+"true"	"Fundacao Oswaldo Cruz"	"Rio de Janeiro"	"Brazil"	227
+"true"	"Universidade Federal do Rio Grande do Norte"	"Natal"	"Brazil"	228
+"true"	"Universidade Federal do Rio Grande do Norte"	"Natal"	"Brazil"	229
+"true"	"Universidade Federal do Para"	"Belem"	"Brazil"	230
+"true"	"Universidade Federal do Ceara"	"Fortaleza"	"Brazil"	231
+"true"	"Instituto de Botânica de Sao Paulo"	"Sao Paulo"	"Brazil"	232
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	233
+"true"	"UNESP-Universidade Estadual Paulista"	"Sao Paulo"	"Brazil"	234
+"true"	"Universidade Federal de Uberlandia"	"Uberlandia"	"Brazil"	235
+"true"	"Universidade Estadual de Maringa"	"Maringa"	"Brazil"	236
+"true"	"Universidade Federal do Acre"	"Rio Branco"	"Brazil"	237
+"true"	"Brazilian National Council for Scientific and Technological Development"	"Brasilia"	"Brazil"	238
+"true"	"Universidade Federal Fluminense"	"Niteroi"	"Brazil"	239
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	240
+"true"	"Secretaria do Meio Ambiente-SP"	"Rio Claro"	"Brazil"	241
+"true"	"Universidade Federal de Santa Catarina"	"Florianopolis"	"Brazil"	242
+NA	NA	NA	NA	NA
+"true"	"Rutgers, The State University of New Jersey"	"New Brunswick"	"United States"	244
+"true"	"Universidade de Brasília"	"Brasilia"	"Brazil"	245
+"true"	"Universidade do Estado do Amapá"	"Macapa"	"Brazil"	246
+"true"	"Faculdade de Ciências Sociais e Humanas, Universidade Nova de Lisboa"	"Lisbon"	"Portugal"	247
+"true"	"Universidade Federal de Pernambuco"	"Recife"	"Brazil"	247
+"true"	"Universidade Federal de Minas Gerais"	"Belo Horizonte"	"Brazil"	248
+"true"	"Instituto Federal do Triângulo Mineiro"	"Uberaba"	"Brazil"	249
+"true"	"Universidade Federal de Minas Gerais"	"Belo Horizonte"	"Brazil"	250
+"true"	"UNESP-Universidade Estadual Paulista"	"Sao Paulo"	"Brazil"	251
+"true"	"The University of Sydney"	"Sydney"	"Australia"	252
+"true"	"Coordinator of Marbras et Mundi Project"	NA	"Brazil"	253
+"true"	"Universidade Federal do Ceara"	"Fortaleza"	"Brazil"	254
+"true"	"Instituto Federal de Educação, Ciência e Tecnologia do Ceará, Fortaleza"	"Fortaleza"	"Brazil"	255
+"true"	"Universidade Federal do Parana"	"Curitiba"	"Brazil"	256
+NA	NA	NA	NA	NA
+"true"	"Universidade Federal da Bahia"	"Salvador"	"Brazil"	258
+"true"	"Universidade Federal de Goias"	"Goiania"	"Brazil"	259
+"true"	"Instituto Federal de Pernambuco"	"Recife"	"Brazil"	260
+"true"	"Universidade Federal do Ceara"	"Fortaleza"	"Brazil"	261
+"true"	"Universidade Federal do Para"	"Belem"	"Brazil"	262
+"true"	"Instituto do Coracao do Hospital das Clinicas"	"Sao Paulo"	"Brazil"	263
+"true"	"INSA/MCTI"	"Campina Grande"	"Brazil"	264
+"true"	"UNESP-Universidade Estadual Paulista"	"Sao Paulo"	"Brazil"	265
+"true"	"UNESP-Universidade Estadual Paulista"	"Sao Paulo"	"Brazil"	266
+"true"	"Instituto do Coracao do Hospital das Clinicas"	"Sao Paulo"	"Brazil"	267
+"true"	"UNESP-Universidade Estadual Paulista"	"Sao Paulo"	"Brazil"	268
+"true"	"Universidade Estadual do Oeste do Parana"	"Cascavel"	"Brazil"	269
+"true"	"London School of Hygiene &amp; Tropical Medicine"	"London"	"United Kingdom"	270
+"true"	"Universidade Federal da Paraiba"	"Joao Pessoa"	"Brazil"	271
+"true"	"Pernambuco Dentistry College (FOP/UPE)"	NA	"Brazil"	272
+"true"	"Universidade Federal de Santa Catarina"	"Florianopolis"	"Brazil"	273
+"true"	"Universidade Federal de Minas Gerais"	"Belo Horizonte"	"Brazil"	274
+"true"	"Instituto Nacional de Ciências e Tecnologia em Doenças Tropicais (INCT-DT)"	"Belo Horizonte"	"Brazil"	274
+"true"	"Universidade Federal da Bahia"	"Salvador"	"Brazil"	275
+"true"	"Universidade Federal do Ceara"	"Fortaleza"	"Brazil"	276
+"true"	"Instituto de Pesquisas Científicas e Tecnológicas do Estado do Amapá"	"Macapa"	"Brazil"	277
+"true"	"Universidade Federal de Sao Carlos"	"Sao Carlos"	"Brazil"	278
+"true"	"University of Wolverhampton"	"Wolverhampton"	"United Kingdom"	279
+"true"	"Universidade Estadual do Oeste do Parana"	"Cascavel"	"Brazil"	280
+"true"	"Fundacao Oswaldo Cruz"	"Rio de Janeiro"	"Brazil"	281
+NA	NA	NA	NA	NA
+"true"	"Universidade de Brasília"	"Brasilia"	"Brazil"	283
+"true"	"UNESP-Universidade Estadual Paulista"	"Sao Paulo"	"Brazil"	284
+"true"	"CIRAD Centre de Recherche de Montpellier"	"Montpellier"	"France"	285
+"true"	"Universidade Federal do Para"	"Belem"	"Brazil"	286
+"true"	"Schlumberger Limited"	"Sugar Land"	"United States"	287
+NA	NA	NA	NA	NA
+"true"	"Universidade de Brasília"	"Brasilia"	"Brazil"	289
+"true"	"Parque Nacional Chapada da Diamantina"	NA	"Brazil"	289
+"true"	"International Water Association"	"London"	"United Kingdom"	290
+"true"	"UNESP-Universidade Estadual Paulista"	"Sao Paulo"	"Brazil"	291
+"true"	"Universidade Federal de Santa Catarina"	"Florianopolis"	"Brazil"	292
+"true"	"Universidade Federal de Santa Catarina"	"Florianopolis"	"Brazil"	293
+"true"	"Universidade Estadual de Campinas"	"Campinas"	"Brazil"	294
+"true"	"Institute of Biodiversity and Ecosystem Research at the Bulgarian Academy of Sciences"	"Sofia"	"Bulgaria"	295
+"true"	"Universidade Federal de Minas Gerais"	"Belo Horizonte"	"Brazil"	296
+"true"	"Universidade Federal do Rio Grande do Norte"	"Natal"	"Brazil"	297
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	298
+NA	NA	NA	NA	NA
+"true"	"Hospital Samaritano"	"Sao Paulo"	"Brazil"	300
+"true"	"CEMAVE/IBAMA"	NA	"Brazil"	301
+"true"	"Universidade Federal de Santa Catarina"	"Florianopolis"	"Brazil"	302
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	303
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	304
+"true"	"Universidade do Estado do Rio de Janeiro"	"Rio de Janeiro"	"Brazil"	305
+"true"	"Universidade Federal de Sao Carlos"	"Sao Carlos"	"Brazil"	306
+NA	NA	NA	NA	NA
+"true"	"University of Wolverhampton"	"Wolverhampton"	"United Kingdom"	308
+"true"	"University of Wolverhampton"	"Wolverhampton"	"United Kingdom"	309
+"true"	"Clinica Basile Medical Center"	"Ribeirao Preto"	"Brazil"	310
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	311
+"true"	"Universidade Federal do Ceara"	"Fortaleza"	"Brazil"	312
+"true"	"University of California, Davis"	"Davis"	"United States"	313
+"true"	"Universidade Federal de Pernambuco"	"Recife"	"Brazil"	314
+"true"	"Companhia de Tecnologia de Saneamento Ambiental"	"Sao Paulo"	"Brazil"	315
+"true"	"CETESB - Companhia Estadual de Tecnologia e Saneamento Básico"	"Sao Paulo"	"Brazil"	315
+"true"	"Universidade Federal de Sao Carlos"	"Sao Carlos"	"Brazil"	316
+"true"	"Universidade de Sao Paulo - USP"	"Sao Paulo"	"Brazil"	316
+"true"	"University's Department of Hydrobiology"	NA	NA	316
+NA	NA	NA	NA	NA
+"true"	"University of Virginia Medical School"	"Charlottesville"	"United States"	318
+"true"	"Universidade Federal do Ceara"	"Fortaleza"	"Brazil"	318
+"true"	"Universidade Federal de Campina Grande"	"Campina Grande"	"Brazil"	319
+"true"	"Universiti Teknologi Malaysia"	"Johor Bahru"	"Malaysia"	320
+"true"	"Lamont-Doherty Earth Observatory"	"Palisades"	"United States"	321
+"true"	"White Plans Middle School"	"White Plains"	"United States"	321
+"true"	"Instituto Materno Infantil de Pernambuco"	"Recife"	"Brazil"	322
+"true"	"National Center for Emerging and Zoonotic Infectious Diseases"	"Atlanta"	"United States"	323
+"true"	"Universidade Federal do Rio Grande do Sul"	"Porto Alegre"	"Brazil"	324
+"true"	"Universidade Federal de Minas Gerais"	"Belo Horizonte"	"Brazil"	325
+NA	NA	NA	NA	NA
+"true"	"Universidade Federal de Minas Gerais"	"Belo Horizonte"	"Brazil"	327
+NA	NA	NA	NA	NA
+"true"	"CETREL-Environmental Protection Co"	"Salvador"	"Brazil"	329
+"true"	"Universidad Autónoma de Madrid"	"Madrid"	"Spain"	330
+"true"	"Universidad de Chile"	"Santiago"	"Chile"	330
+"true"	"Universidad Católica del Maule"	"Talca"	"Chile"	331
+"true"	"Pontificia Universidad Católica de Santiago"	NA	"Chile"	332
+"true"	"Universidad de Chile"	"Santiago"	"Chile"	333
+NA	NA	NA	NA	NA
+"true"	"Academia Chilena de Medicina"	"Santiago"	"Chile"	335
+"true"	"Universidad de Chile"	"Santiago"	"Chile"	335
+"true"	"Pontificia Universidad Católica de Chile"	"Santiago"	"Chile"	336
+"true"	"University of Southampton"	"Southampton"	"United Kingdom"	337
+"true"	"University of Concepcion"	"Biobio"	"Chile"	338
+"true"	"Hospital Militar de Santiago"	"Santiago"	"Chile"	339
+"true"	"University of Concepcion"	"Biobio"	"Chile"	340
+"true"	"Universidad de Chile"	"Santiago"	"Chile"	341
+"true"	"Pontificia Universidad Católica de Chile"	"Santiago"	"Chile"	342
+"true"	"Universidad de Santiago de Chile"	"Santiago"	"Chile"	343
+"true"	"University of Nottingham"	"Nottingham"	"United Kingdom"	343
+"true"	"The University of Hong Kong"	"Pokfulam"	"Hong Kong"	344
+"true"	"Universidad de Valparaiso"	"Valparaiso"	"Chile"	345
+"true"	"Hospital Jose Joaquin Aguirre"	"Independencia"	"Chile"	346
+"true"	"Stockholms universitet"	"Stockholm"	"Sweden"	347
+"true"	"Kungl. Vetenskapsakademien"	"Stockholm"	"Sweden"	347
+"true"	"Universidad de Chile"	"Santiago"	"Chile"	348
