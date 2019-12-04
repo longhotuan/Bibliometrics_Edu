@@ -99,12 +99,6 @@ for(i in 1:nrow(WN_df)){
 WN_df <- WN_df[,-4]
 WN_df <- WN_df[, c(2,3,8,6,4,5,7,1)]
 
-#** From Northern America ####
-# 
-# WN_US <- read.csv("WM_US.csv", header = TRUE)
-# WN_US2 <- read_csv("WM_US.csv")
-# colnames(WN_US) <- colnames(WN_US2)
-# rm(WN_US2)
 
 ##### Main info ####
 #** Document types & languages----
